@@ -6,5 +6,6 @@
 3. I enjoy playing video games in my free time, as long as hanging out with my friends, and working out.
 4. I am hoping to move out of missouri when I graduate so I can explore and grow more as a person.
 
-[Picture Of Me](Konner.jpg)
+![Picture Of Me](Konner.jpg)
 
+[Patriots Page](https://github.com/knke113/Markdown/blob/main/Patriots%20Markdown)
