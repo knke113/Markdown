@@ -5,4 +5,4 @@
 2. I am an information technology major here at Mizzou, and am looking forward to graduating next spring.
 3. I enjoy playing video games in my free time, as long as hanging out with my friends, and working out.
 4. I am hoping to move out of missouri when I graduate so I can explore and grow more as a person.
-![Alt Text](Konner.jpg)
+[Patriots](
